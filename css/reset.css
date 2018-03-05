@@ -1,0 +1,12 @@
+#container {
+  height: 100vw; // google vw
+  width: 100%;
+  background: no-repeat top/ 90% url(../img/maze.png);
+  position: absolute;
+}
+
+#bomberman {
+  position: relative;
+  height: 80px;
+  width: 80px;
+}
